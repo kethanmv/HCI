@@ -8,7 +8,7 @@ There are basically 4 parts to the project:
 ### 4.Concept Video
 
 ## Team Members
-Kethan M V - PES1201701085
-Kaustubh Raghavan- PES1201700916
-Priyadith T P - PES1201701324
-Vihan Murthy - PES1201701603
+#### Kethan M V - PES1201701085
+#### Kaustubh Raghavan- PES1201700916
+#### Priyadith T P - PES1201701324
+#### Vihan Murthy - PES1201701603
