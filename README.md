@@ -2,7 +2,7 @@
 SafeTrade is a project as part of the Human Computer Interaction Course - Fall 2020 PES University.SafeTrade is an intuitive user platform that aids amateur investors trade stocks. SafeTrade limits the amount of money that a user can invest and by using risk-free trade the user can get some return on investment if there is a negative result so the user doesn't lose all the money.
 
 There are basically 4 parts to the project:
-### 1.NeedFinding
+### 1.NeedFinding - https://drive.google.com/file/d/1tMHX4aAMoYi7LR-1b3HU4_Lrzx34vVWu/view?usp=sharing
 ### 2.Low Fidelity Prototype - https://www.figma.com/file/Ea3Fp5BOvkqVPLnDKPLWer/Low-Fidelity-Prototype
 ### 3.High Fidelity Protoype - https://www.figma.com/file/GH3KgD53UhHNJPWIw7dJcW/High-Fidelity-Prototype
 ### 4.Concept Video - https://youtu.be/DGR_J4dwM2E
