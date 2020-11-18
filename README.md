@@ -3,9 +3,9 @@ SafeTrade is a project as part of the Human Computer Interaction Course - Fall 2
 
 There are basically 4 parts to the project:
 ### 1.NeedFinding
-### 2.Low Fidelity Prototype
-### 3.High Fidelity Protoype
-### 4.Concept Video
+### 2.Low Fidelity Prototype - https://www.figma.com/file/Ea3Fp5BOvkqVPLnDKPLWer/Low-Fidelity-Prototype
+### 3.High Fidelity Protoype - https://www.figma.com/file/GH3KgD53UhHNJPWIw7dJcW/High-Fidelity-Prototype
+### 4.Concept Video - https://youtu.be/DGR_J4dwM2E
 
 ## Team Members
 #### Kethan M V - PES1201701085
